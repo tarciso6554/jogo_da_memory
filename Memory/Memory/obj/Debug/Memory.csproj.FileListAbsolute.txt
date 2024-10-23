@@ -1,0 +1,13 @@
+D:\estudo\c#\Memoria_game\Memory\Memory\bin\Debug\Memory.exe.config
+D:\estudo\c#\Memoria_game\Memory\Memory\bin\Debug\Memory.exe
+D:\estudo\c#\Memoria_game\Memory\Memory\bin\Debug\Memory.pdb
+D:\estudo\c#\Memoria_game\Memory\Memory\obj\Debug\Memory.csproj.AssemblyReference.cache
+D:\estudo\c#\Memoria_game\Memory\Memory\obj\Debug\Memory.jogo.resources
+D:\estudo\c#\Memoria_game\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+D:\estudo\c#\Memoria_game\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+D:\estudo\c#\Memoria_game\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+D:\estudo\c#\Memoria_game\Memory\Memory\obj\Debug\Memory.exe
+D:\estudo\c#\Memoria_game\Memory\Memory\obj\Debug\Memory.pdb
+D:\estudo\c#\Memoria_game\Memory\Memory\bin\Debug\en-US\Memory.resources.dll
+D:\estudo\c#\Memoria_game\Memory\Memory\obj\Debug\Memory.jogo.en-US.resources
+D:\estudo\c#\Memoria_game\Memory\Memory\obj\Debug\en-US\Memory.resources.dll
